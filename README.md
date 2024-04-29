@@ -49,6 +49,8 @@ We have to provide some suggestions to avoid such airplane crashes in the future
 15. Fatalities Crew: Number of crew member fatalities.
 16. Ground: Casualties on the ground, if any.
 17. Summary: Brief summary or description of the incident.
-I have created my Tableau project in my tableau account where you can see my dashboard.
-The link to the tableau dashboard is as follows,
---> https://public.tableau.com/app/profile/mounika.macharla/viz/AirPlaneCrashes/Dashboard1#2
+
+> [!Note]
+> I have created my Tableau project in my tableau account where you can see my dashboard.
+> The link to the tableau dashboard is as follows,
+> https://public.tableau.com/app/profile/mounika.macharla/viz/AirPlaneCrashes/Dashboard1#2
