@@ -50,6 +50,10 @@ We have to provide some suggestions to avoid such airplane crashes in the future
 16. Ground: Casualties on the ground, if any.
 17. Summary: Brief summary or description of the incident.
 
+### My Dashboard:
+![AirPlane Crashes Analysis - Dashboard](https://github.com/NimoMach/Mentorness/assets/150921315/b1fac6e4-f74e-44b4-b882-25bee74fe6d7)
+
+
 > [!Note]
 > I have created my Tableau project in my tableau account where you can see my dashboard.
 > The link to the tableau dashboard is as follows,
